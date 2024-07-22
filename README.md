@@ -1,4 +1,4 @@
-# globalsuperstore
+# Sales Dashboard
 🌟 Global Superstore Sales Dashboard 🌟
 Welcome to the Global Superstore Sales Dashboard project! 
 This dashboard provides deep insights into sales trends, product performance, and customer behavior using the Global Superstore dataset. Created using Power BI, this project employs advanced analytics to drive business decisions.
